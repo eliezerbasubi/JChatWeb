@@ -1,0 +1,25 @@
+
+		body{
+			background-image: url(img/background.png);
+			background-repeat: no-repeat;
+			background-attachment: cover;
+			background-color: skyblue;
+			background-position: absolute;
+			left: 50%;
+
+		}
+
+		#content{
+			position: absolute;
+			top: 30%;
+			left: 60%;
+			width: 350px;
+			padding: 30px;
+			text-align: center;
+			background-color: rgba(255, 255,255, 0.5);
+		}
+
+		input[type="text"]{
+			width: 310px;
+			height: 30px;
+		}
